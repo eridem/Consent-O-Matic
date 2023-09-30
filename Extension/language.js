@@ -1,109 +1,129 @@
 const translations = {
     "EXTENSION_NAME": {
         "en": "Consent-O-Matic",
+        "es": "Consent-O-Matic",
         "da": "Consent-O-Matic",
         "de": "Consent-O-Matic",
         "pt": "Consent-O-Matic"
     },
     "EXTENSION_SUBTITLE": {
         "en": "Your Choice - Applied Everywhere",
+        "es": "Tu elección - Aplicada en todas partes",
         "da": "Dit valg - Anvendt overalt",
         "de": "Ihre Wahl - Überall angewendet",
         "pt": "Sua Escolha - Aplicadada em todos os lugares"
     },
     "YOUR_CHOICE": {
         "en": "Your Choice",
+        "es": "Tu elección",
         "da": "Dit valg",
         "de": "Ihre Wahl",
         "pt": "Sua Escolha"
     },
     "RULE_LIST": {
         "en": "Rule Lists",
+        "es": "Lista de reglas",
         "da": "Regler",
         "de": "Regellisten",
         "pt": "Lista de Regras"
     },
     "ABOUT": {
         "en": "About",
+        "es": "Información",
         "da": "Info",
         "de": "Information",
         "pt": "Sobre"
     },
     "DEBUG": {
         "en": "Dev",
+        "es": "Dev",
         "da": "Dev",
         "de": "Dev",
         "pt": "Dev"
     },
     "HIDE_OR_PIP_DESCRIPTION": {
         "en": "How to display popups while they are being filled out",
+        "es": "Cómo mostrar los diálogos mientras se están rellenando",
         "da": "Hvordan popups skal vises imens de udfyldes"
     },
     "HIDE_OR_PIP_HIDE_TITLE": {
         "en": "Hide",
+        "es": "Ocultar",
         "da": "Skjul",
         "de": "Ausblenden",
         "pt": "Ocultar"
     },
     "HIDE_OR_PIP_HIDE_LABEL": {
         "en": "Hide the popup entirely while answering it",
+        "es": "Ocultar totalmente el diálogo mientra se rellena",
         "da": "Skjul popup'en fuldstændigt imens den besvares",
         "de": "Verbirgt das popup, während es beantwortet wird"
     },
     "HIDE_OR_PIP_PIP_TITLE": {
         "en": "Minimize",
+        "es": "Minimizar",
         "da": "Minimér"
     },
     "HIDE_OR_PIP_PIP_LABEL": {
         "en": "Show the popup in a small overlay in the corner",
+        "es": "Mostrar el diálogo en una pequeña ventana en la esquina de la pantalla"
         "da": "Vis popup'en i en lille overlejring i hjørnet"
     },
     "DISPLAY": {
         "en": "Display",
+        "es": "Mostrar",
         "da": "Visning"
     },
     "DISPLAY_DESCRIPTION": {
         "en": "Configure the appearance and behaviour of Consent-O-Matic",
+        "es": "Configurar el comportamiento y la apariencia de Consent-O-Matic",
         "da": "Konfigurer Consent-O-Matic's udseende og opførsel"
     },
     "CHOICE_DESCRIPTION": {
         "en": "Configure what categories of tracking you would like to allow. Consent-O-Matic then fills out consent popups as best as possible based on your preferences. All tracking is rejected by default.",
+        "es": "Configurar que categorías de rastreo te gustaría permitir. Según tus preferencias, Consent-O-Matic rellenará tus consentimientos automáticamente. Cualquier rastreo es rechazado por defecto",
         "da": "Konfigurer hvilke tracking-kategorier du gerne vil tillade. Så vil Consent-O-Matic udfylde samtykke-popups så godt den kan baseret på dine valg. Som standard bliver alt tracking afvist.",
         "de": "Legen Sie fest, welche Kategorien von Tracking Sie zulassen möchten. Consent-O-Matic füllt dann, basierend auf Ihren Voreinstellungen, die Zustimmungs-Popups so gut wie möglich aus. Standardmäßig wird jegliches Tracking abgelehnt.",
         "pt": "Configure quais categorias de rastreamento você gostaria de permitir. O Consent-O-Matic preenche os pop-ups de consentimento da melhor forma possível com base em suas preferências. Todos os rastreamentos são rejeitados por padrão."
     },
     "RULES_DESCRIPTION": {
         "en": "Consent-O-Matic comes with a set of rules that tell it how to understand each kind of GDPR consent popup. You can add more sources of rules here - or even create your own list and share it with others!",
+        "es": "Consent-O-Matic viene configurado con un conjunto de reglas que entienden como manejar cada uno de los diálogos GDPR. Puedes añadir mas reglas aquí - ¡o incluso crear tu propia lista y compartirla con otras personas!",
         "da": "Sammen med Consent-O-Matic følger et sæt af regler der beskriver hvordan hver enkelt slags GDPR-samtykke-popup skal behandles. Du kan tilføje flere regel-kilder her - eller oprette din egen liste og dele den med andre!",
         "de": "Consent-O-Matic wird mit einer Reihe von Regeln geliefert, die ihm sagen, wie es jede Art von GDPR-Einwilligungs-Popup verstehen soll. Sie können hier weitere Quellen für Regeln hinzufügen - oder sogar Ihre eigene Liste erstellen und sie mit anderen teilen!",
         "pt": "O Consent-O-Matic vem com um conjunto de regras de como entender cada tipo de pop-up de consentimento do GDPR. Você pode adicionar mais regras aqui - ou até mesmo criar sua própria lista e compartilhá-la com outras pessoas!"
     },
     "ADD_LIST": {
         "en": "Add List",
+        "es": "Añadir lista",
         "da": "Tilføj liste",
         "de": "Liste hinzufügen",
         "pt": "Adicionar Lista"
     },
     "RULES_UPDATE_DESCRIPTION": {
         "en": "All the rule lists are updated automatically every 22-48 hours or you can",
+        "es": "Todas las listas de reglas son actualizadas automaticamente cada 22 a 48 hours o tu puedes",
         "da": "Alle listerne med regler opdateres automatisk engang hver 22-48 time, eller du kan",
         "de": "Alle Regellisten werden automatisch alle 22 bis 48 Stunden aktualisiert oder Sie können",
         "pt": "Todas as listas de regras são atualizadas automaticamente a cada 22-48 horas ou você pode"
     },
     "UPDATE_RULES_NOW": {
         "en": "Update Rules Now",
+        "es": "Actualizar las reglas ahora",
         "da": "Opdater regler nu",
         "de": "Die Regeln jetzt aktualisieren",
         "pt": "Atualizar Regras Agora"
     },
     "RULE_GENERATOR": {
         "en": "Rule List Generator",
+        "es": "Generador de Lista de Reglas",
         "da": "Regel liste generator",
         "de": "Regellistengenerator",
         "pt": "Gerador de Lista de Regras"
     },
     "RULE_GENERATOR_DESCRIPTION": {
         "en": "As an alternative to writing JSON rules by hand it is also possible to create rules using this drag-n-drop editor:",
+        "es": "En lugar de escribir las reglas a mano en formato JSON, también puedes usar este editor tipo 'arrastrar-y-soltar':",
         "da": "Som alternativ til at skrive JSON-reglerne i hånden, er det også muligt at lave regler med denne drag-n-drop editor:",
         "de": "Statt JSON-Regeln manuell zu schreiben, können Sie alternativ Regeln mithilfe des Drag-and-drop-Editors erstellen:",
         "pt": "Como alternativa a escrever regras JSON manualmente, também é possível criá-las usando este editor de arrastar e soltar:"
@@ -111,54 +131,63 @@ const translations = {
     },
     "OPEN_RULE_GENERATOR": {
         "en": "Open Rule Editor",
+        "es": "Abrir Editor de Reglas",
         "da": "Redigér Regler",
         "de": "Regeleditor öffnen",
         "pt": "Abrir Editor de Regras"
     },
     "CLEAR": {
         "en": "Clear",
+        "es": "Limpiar",
         "da": "Ryd",
         "de": "Löschen",
         "pt": "Limpar"
     },
     "ABOUT_DESCRIPTION": {
         "en": "Here you can see how many times a popup has been filled out and just how many clicks Consent-O-Matic has saved you.",
+        "es": "Aquí puedes ver cuantas veces los dialogos han sido rellenados automáticamente y cuántos clics Content-O-Matic the ha ahorrado.",
         "da": "Her kan du se hvor mange gange der er blevet udfyldt en popup for dig, og hvor mange klik Consent-O-Matic har sparet dig.",
         "de": "Hier können Sie sehen, wie häufig ein Popup ausgefüllt wurde und wie viele Klicks dank Consent-O-Matic gespart wurden.",
         "pt": "Aqui você pode ver quantas vezes um pop-up foi preenchido e quantos cliques o Consent-O-Matic economizou para você."
     },
     "CLICKS_SAVED": {
         "en": "clicks saved",
+        "es": "clicks ahorrados",
         "da": "klik sparet",
         "de": "gesparte Klicks",
         "pt": "cliques economizados"
     },
     "CLICK_DELAY_DESCRIPTION": {
         "en": "Wait a short time between performing each action or mouse gesture",
+        "es": "Esperar un periodo corto de tiempo antes de ejecutar la acción o mover el ratón",
         "da": "Vent en kort periode i mellem udførslen af hver handling eller muse gesture",
         "de": "Eine kurze Zeit zwischen den einzelnen Aktionen oder Mausgesten warten",
         "pt": "Aguarde um pouco entre a execução de cada ação ou movimento do mouse"
     },
     "SKIP_SUBMIT_DESCRIPTION": {
         "en": "Perform actions normally but do not submit the consent",
+        "es": "Ejecutar las acciones pero no enviar el consentimiento",
         "da": "Udfør handlinger normalt, men lad være med at indsende samtykket",
         "de": "Aktionen normal ausführen, aber die Zustimmung nicht abschicken",
         "pt": "Execute as ações normalmente, mas não envie o consentimento"
     },
     "PAINT_MATCHERS_DESCRIPTION": {
         "en": "Visual feedback while matching consent choices",
+        "es": "Información visual mientras se emparejan las opciones de consentimiento",
         "da": "Visuel feedback mens samtykkevalg matches",
         "de": "Visuelles Feedback beim Abgleich von Einwilligungsentscheidungen",
         "pt": "Feedback visual ao combinar opções de consentimento"
     },
     "DEBUG_CLICKS_DESCRIPTION": {
         "en": "Debug clicks to the log",
+        "es": "Depurar clicks en el log",
         "da": "Debug klik til loggen",
         "de": "Klicks im Debug-Log anzeigen",
         "pt": "Depurar cliques no log"
     },
     "ALWAYS_FORCE_UPDATE_DESCRIPTION": {
         "en": "Always force a reload of the rules on each page load",
+        "es": "Forzar siempre el refresco de las reglas en cada página cargada",
         "da": "Tving genlæsning af reglerne ved hver side hentning",
         "de": "Erzwinge ein Neuladen der Regeln bei jedem Laden einer Seite",
         "pt": "Sempre force o recarregamento das regras em cada carregamento de página"
