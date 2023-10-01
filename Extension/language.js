@@ -187,49 +187,56 @@ const translations = {
     },
     "ALWAYS_FORCE_UPDATE_DESCRIPTION": {
         "en": "Always force a reload of the rules on each page load",
-        "es": "Forzar siempre el refresco de las reglas en cada página cargada",
+        "es": "Volver a cargar siempre las reglas por cada página cargada",
         "da": "Tving genlæsning af reglerne ved hver side hentning",
         "de": "Erzwinge ein Neuladen der Regeln bei jedem Laden einer Seite",
         "pt": "Sempre force o recarregamento das regras em cada carregamento de página"
     },
     "SKIP_HIDE_DESCRIPTION": {
         "en": "Skips the HIDE_CMP method, to better see what's going on behind the scenes.",
+        "es": "Ignorar el método HIDE_CMP, para entender mejor lo que ocurre entre bastidores",
         "da": "Spring HIDE_CMP metoden over, for bedre at se hvad der foregår bag kulisserne.",
         "de": "Überspringt die HIDE_CMP-Methode, um besser sehen zu können, was hinter den Kulissen vor sich geht.",
         "pt": "Ignora o método HIDE_CMP, para ver melhor o que está acontecendo nos bastidores."
     },
     "EXTRA_DEBUG_DESCRIPTION": {
         "en": "Enables extra debug logging",
+        "es": "Habilita logs adicionales de depuración",
         "da": "Aktiver ekstra debug logning",
         "de": "Aktiviert zusätzliches Debug-Logging",
         "pt": "Habilita log adicional de depuração"
     },
     "INFORMATION_NAME": {
         "en": "Information Storage and Access",
+        "es": "Almacenamiento y Acceso a la Información",
         "da": "Opbevaring og adgang til information",
         "de": "Informationsspeicherung und -zugriff",
         "pt": "Armazenamento e Acesso à Informação"
     },
     "INFORMATION_DESCRIPTION": {
         "en": "Storage of information or access to information that is already stored on your device - such as advertising identifiers, device identifiers, cookies, and similar technologies.",
+        "es": "Almacenamiento de información o acceso a la información que ya está almacenada en tu dispositivo - así como identificadores publicitarios, identificadores de dispositivos, cookies y tecnologías similares",
         "da": "Lagring af information eller adgang til information, der allerede er gemt på din enhed - såsom reklame-id'er, enhedsidentifikatorer, cookies og lignende teknologier.",
         "de": "Speicherung von Informationen oder Zugriff auf Informationen, die bereits auf Ihrem Gerät gespeichert sind - wie Werbekennungen, Gerätekennungen, Cookies und ähnliche Technologien.",
         "pt": "Armazenamento de informações ou acesso à informações que já estão armazenadas em seu dispositivo - como identificadores publicitários, identificadores de dispositivo, cookies e tecnologias semelhantes."
     },
     "PREFERENCES_NAME": {
         "en": "Preferences and Functionality",
+        "es": "Preferencias y Funcionalidad",
         "da": "Præferencer og funktionalitet",
         "de": "Präferenzen und Funktionalitäten",
         "pt": "Preferências e Funcionalidade"
     },
     "PREFERENCES_DESCRIPTION": {
         "en": "Allow sites to remember choices you make (such as your user name, language or the region you are located in) and provide enhanced, more personal features. For instance, these cookies can be used to remember your login details, changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information in these cookies is not used to track your browsing activity on other websites.",
+        "es": "Permite que las páginas recuerden las elecciones que hiciste (así como tu nombre de usuario, idioma o region dónde te encuentras) y ofrecer funciones mejoradas y más personalizadas. Por ejemplo, estas 'cookies' pueden ser usadas para recordar tus detalles de 'login', cambios que hiciste en el tamaño y tipo de la letra, y otras preferencias de personalización. También pueden ser usadas para proporcionar servicios que solicitaste, así como ver un vídeo o comentar en un blog. La información en estas 'cookies' no es usada para el rastreo de tu actividad online en otras páginas.",
         "da": "Tillad websteder at huske valg, du laver (f.eks. dit brugernavn, sprog eller den region du er placeret i) og giver forbedrede, mere personlige funktioner. For eksempel kan disse cookies bruges til at huske dine loginoplysninger, ændringer, du har lavet til tekststørrelse, skrifttyper og andre dele af websider, som du kan tilpasse. De kan også bruges til at levere tjenester, du har bedt om, f.eks. at se en video eller kommentere på en blog. Oplysningerne i disse cookies bruges ikke til at spore din browsingaktivitet på andre hjemmesider.",
         "de": "Erlauben Sie es den Websites, sich an die von Ihnen getroffene Wahl zu erinnern (z. B. an Ihren Benutzernamen, Sprache oder die Region, in der Sie sich befinden) und verbesserte, persönlichere Funktionen bereitzustellen. Diese Cookies können zum Beispiel verwendet werden, um Ihre Anmeldedaten, Änderungen an der Textgröße, Schriftarten und anderen Teile der Webseiten, die Sie anpassen können, zu speichern. Sie können auch dazu verwendet werden, um Dienste, die Sie angefordert haben, bereitzustellen, wie z. B. das Ansehen eines Videos oder das Kommentieren in einem Blog. Die Informationen in diesen Cookies werden nicht dazu verwendet, um Ihre Surfaktivitäten auf anderen Websites zu verfolgen.",
         "pt": "Permita que os sites lembrem as escolhas que você faz (como seu nome de usuário, idioma ou região em que você está localizado) e forneçam recursos aprimorados e mais personalizados. Por exemplo, esses cookies podem ser usados para lembrar seus detalhes de login, alterações feitas no tamanho do texto, fontes e outros atributos de páginas da web que você pode personalizar. Eles também podem ser usados para fornecer serviços que você solicitou, como assistir a um vídeo ou comentar em um blog. As informações nesses cookies não são usadas para rastrear sua atividade de navegação em outros sites."
     },
     "PERFORMANCE_NAME": {
         "en": "Performance and Analytics",
+        "es": "Rendimiento y análisis",
         "da": "Ydelse og analyse",
         "de": "Leistung und Analyse",
         "pt": "Desempenho e Analytics"
